@@ -8,9 +8,7 @@
 De este sprint conservaremos la constacia del equipo, de realizar pequeñas actividades todos los dias.
 Esto ha dado buenos resultados a la hora de entrega. Muy importante! por lo que se debe conservar  
 
-
 (Stop)Detener: ¿Con qué debemos detenernos?
-
 Debemos detenernos a pensar y tomar mas responsabilidad con el grupo, no dejar las actividades a ultimo momento.
 
 (Start)Inicio: ¿por dónde debemos empezar?
