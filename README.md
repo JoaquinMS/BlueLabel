@@ -30,4 +30,4 @@ https://bluelabel.atlassian.net/jira/people/team/63921ad8-d5c1-47c3-bb01-a566b79
 
 [Uploading Sprint 1.pdf…]()
 
-# Sprint 2 (PDF)
+# Sprint 2
