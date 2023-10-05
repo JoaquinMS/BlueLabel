@@ -24,7 +24,7 @@ https://www.figma.com/file/mMOJm7bEeC4zfBSpo45yc6/Untitled?type=design&node-id=0
 
 # Tablero en Jira
 
-https://bluelabel.atlassian.net/jira/people/team/63921ad8-d5c1-47c3-bb01-a566b79e33b1
+[https://bluelabel.atlassian.net/jira/people/team/63921ad8-d5c1-47c3-bb01-a566b79e33b1](https://bluelabel.atlassian.net/jira/software/projects/KAN/boards/1)
 
 # Sprint 1
 
