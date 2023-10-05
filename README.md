@@ -33,3 +33,7 @@ https://bluelabel.atlassian.net/jira/people/team/63921ad8-d5c1-47c3-bb01-a566b79
 # Sprint 2
 
 [Uploading Sprint2.pdf…]()
+
+# Sprint 3
+
+[Sprint 3.pdf](https://github.com/JoaquinMS/BlueLabel/files/12820914/Sprint.3.pdf)
